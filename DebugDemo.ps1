@@ -1,7 +1,7 @@
 ﻿$csv = import-csv "c:\temp\PS\DetaEngineers.csv"
 $ExportCSV = "C:\temp\PS\DetaEngineersNew.csv"
-$domain = 'client.nl'
-$newdomain = 'ricoh.nl'
+$domain = 'old.nl'
+$newdomain = 'new.nl'
 $UserArray = @() # Create an empty array
 
 
